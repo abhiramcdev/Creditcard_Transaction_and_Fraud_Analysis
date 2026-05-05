@@ -23,8 +23,8 @@ using real-world credit card transaction data.
 
 ## Dashboard Preview
 
-![Transaction Dashboard](screenshots/transaction_dashboard.png)
-![Fraud Dashboard](screenshots/fraud_dashboard.png)
+![Transaction Dashboard](Dashboard/Transaction_Dashboard.png)
+![Fraud Dashboard](Dashboard/Fraud_Dashboard.png)
 
 ## What I Built
 
